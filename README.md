@@ -23,10 +23,10 @@ It means that the fonts and assets all loaded up correctly. Yaay!
 UI is inspired by the [**Jurgen Ploeger's design.**](https://dribbble.com/shots/9894622-Watering-Plants-App/attachments/1928360?mode=media)<br>
 
 ## Livehacking todo list
-- [ ] Implement home screen
+- [x] Implement home screen
 - [ ] Implement detail screen
 - [ ] List view
-- [ ] Keeping styles as constants
-- [ ] MediaQuery size
-- [ ] Importing assets (images)
-- [ ] Importing fonts
+- [x] Keeping styles as constants
+- [x] MediaQuery size
+- [x] Importing assets (images)
+- [x] Importing fonts
