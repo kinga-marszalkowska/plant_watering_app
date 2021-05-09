@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:plantwateringapp/constants.dart';
+import 'package:plantwateringapp/screens/DetailScreen.dart';
+import 'package:plantwateringapp/screens/HS2.dart';
 import 'package:plantwateringapp/screens/HomeScreen.dart';
 import 'package:plantwateringapp/services/routing.dart';
 
